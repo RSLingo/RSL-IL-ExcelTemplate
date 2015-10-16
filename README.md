@@ -4,9 +4,9 @@
 This repository publishes the “RSL-IL Excel Template” that is a SRS template based on the multi-view architecture defined in the RSL-IL language [1,2] and also that is aware of the problems and practical recommendations discussed [4,5]. 
 
 This template includes the following files:
-• RSLIL-ExcelTemplate-v1.1.xlsx: the RSL-IL Excel template that can be customized or directly used in a project basis;
-• RSLIL-ExcelTemplate-TechnicalReport-v1.1.pdf: a technical report that briefly describes this template and gives some additional information. 
-• RSLIL-Example-BillingSystem-v1.0.xlsx: a companion Excel file with a very simple (and not complete) application example of this RSL-IL Excel template;
+- RSLIL-ExcelTemplate-v1.1.xlsx: the RSL-IL Excel template that can be customized or directly used in a project basis;
+- RSLIL-ExcelTemplate-TechnicalReport-v1.1.pdf: a technical report that briefly describes this template and gives some additional information. 
+- RSLIL-Example-BillingSystem-v1.0.xlsx: a companion Excel file with a very simple (and not complete) application example of this RSL-IL Excel template;
 
 
 Feel free to use it at your convenience!
