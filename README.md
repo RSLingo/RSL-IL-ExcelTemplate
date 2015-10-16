@@ -3,7 +3,7 @@
 Copyright
 --------------------------------------------------------------------------------------
 
-Copyright 2013 - 2015 Instituto Superior Técnico, Universidade de Lisboa. All rights reserved. 
+Copyright 2013 - 2015 INESC-ID, Instituto Superior Técnico, Universidade de Lisboa. All rights reserved. 
 Any use of this software constitutes full acceptance of all terms of the software's license.
 
 Description
@@ -15,8 +15,7 @@ This template includes the following files:
 - RSLIL-ExcelTemplate-TechnicalReport-v1.1.pdf: a technical report that briefly describes this template and gives some additional information. 
 - RSLIL-Example-BillingSystem-v1.0.xlsx: a companion Excel file with a very simple (and not complete) application example of this RSL-IL Excel template;
 
-
-Feel free to use it!
+Feel free to use it! and to send us your feedback, alberto.silva@tecnico.ulisboa.pt 
 
 References
 --------------------------------------------------------------------------------------
