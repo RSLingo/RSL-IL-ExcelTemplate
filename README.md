@@ -1,8 +1,20 @@
-# RSL-IL-Excel-Template
-RSL-IL System Requirements Specification - MS-Excel Template
+# RSL-IL-Excel-Template # 
+## RSL-IL System Requirements Specification - MS-Excel Template ## 
 -
-Requirements specifications (SRSs) describe multiple technical concerns of a system and are used throughout different stages of the project life-cycle to help sharing the system vision among the main stakeholders, as well as to facilitate communication and the overall project management and system development processes. For achieving an effective communication, everyone should be able to communicate by means of a common language, and natural language provides the foundations for such language. However, although natural language is the most common and preferred form of requirements representation, it also exhibits some intrinsic characteristics that often present themselves as the root cause of many requirements quality problems, such as incorrectness, inconsistency, incompleteness and ambiguousness. 
+This repository publishes the “RSL-IL Excel Template” that is a SRS template based on the multi-view architecture defined in the RSL-IL language [1,2] and also that is aware of the problems and practical recommendations discussed [4,5]. 
 
-The RSL-IL is a requirements specification language that includes several constructs logically arranged into viewpoints according to the specific RE concerns they address. 
+This template includes the following files:
+• RSLIL-ExcelTemplate-v1.1.xlsx: the RSL-IL Excel template that can be customized or directly used in a project basis;
+• RSLIL-ExcelTemplate-TechnicalReport-v1.1.pdf: a technical report that briefly describes this template and gives some additional information. 
+• RSLIL-Example-BillingSystem-v1.0.xlsx: a companion Excel file with a very simple (and not complete) application example of this RSL-IL Excel template;
 
-The “RSL-IL Excel Template” is a SRS template based on the RSL-IL Language that can be customized or just directly used for your own purpose.
+
+Feel free to use it at your convenience!
+
+-
+## References ##  
+
+1.	Ferreira, D., Silva, A. R., 2012. RSLingo: An Information Extraction Approach toward Formal Requirements Specifications. In: Proc. of the 2nd Int. Workshop on Model-Driven Requirements Engineering (MoDRE 2012), IEEE CS.
+2.	Ferreira, D., Silva, A. R., 2013. RSL-IL: An Interlingua for Formally Documenting Requirements. In: Proc. of the of Third IEEE International Workshop on Model-Driven Requirements Engineering (MoDRE 2013), IEEE CS.
+4.	Verelst, J., et al., 2013. Identifying Combinatorial Effects in Requirements Engineering, Proceedings of Third Enterprise Engineering Working Conference (EEWC 2013), Advances in Enterprise Engineering, LNBIP, Springer.
+5.	Silva, A. R., et al., 2014. Towards a System Requirements Specification Template that Minimizes Combinatorial Effects, Proceedings of QUATIC’2014 Conference, IEEE CS.
