@@ -1,6 +1,4 @@
-
-## RSL-IL-Excel-Template 
-## RSL-IL System Requirements Specification - MS-Excel Template 
+## RSL-IL System Requirements Specification - MS-Excel Template (RSL-IL-Excel-Template)
 
 Copyright
 --------------------------------------------------------------------------------------
