@@ -1,5 +1,5 @@
-# RSL-IL-Excel-Template # 
-## RSL-IL System Requirements Specification - MS-Excel Template ## 
+# RSL-IL-Excel-Template 
+## RSL-IL System Requirements Specification - MS-Excel Template 
 -
 This repository publishes the “RSL-IL Excel Template” that is a SRS template based on the multi-view architecture defined in the RSL-IL language [1,2] and also that is aware of the problems and practical recommendations discussed [4,5]. 
 
@@ -12,7 +12,7 @@ This template includes the following files:
 Feel free to use it at your convenience!
 
 -
-## References ##  
+## References
 
 1.	Ferreira, D., Silva, A. R., 2012. RSLingo: An Information Extraction Approach toward Formal Requirements Specifications. In: Proc. of the 2nd Int. Workshop on Model-Driven Requirements Engineering (MoDRE 2012), IEEE CS.
 2.	Ferreira, D., Silva, A. R., 2013. RSL-IL: An Interlingua for Formally Documenting Requirements. In: Proc. of the of Third IEEE International Workshop on Model-Driven Requirements Engineering (MoDRE 2013), IEEE CS.
