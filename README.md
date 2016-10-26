@@ -33,6 +33,6 @@ References
 
 Licence
 --------------------------------------------------------------------------------------
+This material is released under the Eclipse Public License (EPL) - Version 1.0.
 
-RSL-IL-ExcelTemplate is released under the EUPL 1.1 licence. http://joinup.ec.europa.eu/software/page/eupl
-For further details please consult the LICENCE file.  
+http://www.eclipse.org/legal/epl-v10.html 
